@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Khue Pham, founder of Adose / Genuis App</h1>
-<h3 align="center">As a full-stack developer with a passion for technology and innovation, I've always been fascinated by how we can leverage the power of code to create impactful solutions that improve people's lives. My journey into the tech world has been driven by a desire to solve real-world problems, and I've always been inspired by the potential of startups to bring fresh, transformative ideas to life.
+<h1 align="center">Hi 👋, I'm Khue Pham, founder of Adose App / Genuis App</h1>
+<h3 align="center">About me</h3>
+<p align="center">
+
+As a full-stack developer with a passion for technology and innovation, I've always been fascinated by how we can leverage the power of code to create impactful solutions that improve people's lives. My journey into the tech world has been driven by a desire to solve real-world problems, and I've always been inspired by the potential of startups to bring fresh, transformative ideas to life.
 
 With a background in full-stack development, I’ve had the privilege of working on a wide range of projects, from building robust back-end systems to crafting intuitive user interfaces. This experience has given me a unique perspective on how to design and build products that not only function seamlessly but also deliver real value to users.
+<h3 align="center">About Adose App - Daily dose of Happiness</h3>
 
 I created ADOSE as a way to merge my technical skills with my passion for health and wellness. I believe that happiness is something we can actively cultivate through small, consistent actions, and I wanted to develop a tool that empowers people to take control of their well-being. ADOSE is more than just an app—it’s a startup with a mission to help people live happier, healthier, and more connected lives by tapping into the science of happiness and the power of community.
 
 I’m excited to share ADOSE with you, and I’m looking forward to seeing how it can help you on your journey to greater happiness and personal growth.
-</h3>
+</p>
 
-<h3 align="center">Genuis App is an AI-powered website builder that helps you create a stunning website in just a few simple steps. With our intuitive platform, you can name your website, choose from a variety of templates, and publish your site with just one click. Our AI technology assists you in brainstorming ideas and performing market research to ensure your website is tailored to your business needs. Plus, our platform generates content, including website copy and visual identity, to help bring your website to life.</h3>
+<h3 align="center">Genuis App - an AI-powered website builder</h3>
+
+<p align="center">
+
+Genuis App is an AI-powered website builder that helps you create a stunning website in just a few simple steps. With our intuitive platform, you can name your website, choose from a variety of templates, and publish your site with just one click. Our AI technology assists you in brainstorming ideas and performing market research to ensure your website is tailored to your business needs. Plus, our platform generates content, including website copy and visual identity, to help bring your website to life.</p>
 
 [![Profile views ](https://visitcount.itsvg.in/api?id=khuepm&label=Profile%20Views&color=3&icon=4&pretty=false)](https://visitcount.itsvg.in)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khuepm&label=Profile%20views&color=0e75b6&style=flat" alt="khuepm" /> </p>
 
 <p align="left"> <a href="https://github.com/khuepm"><img src="https://github-profile-trophy.vercel.app/?username=khuepm" alt="khuepm" /></a> </p>
 
@@ -22,7 +28,7 @@ I’m excited to share ADOSE with you, and I’m looking forward to seeing how i
 
 - 👯 I’m looking to collaborate on [ADOSE App](https://adose.app)
 
-- 💬 Ask me about **react, react native, typescript**
+- 💬 Ask me about **ReactJS, React Native, Nodejs, Typescript**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -31,7 +37,7 @@ I’m excited to share ADOSE with you, and I’m looking forward to seeing how i
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khuephamminh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khuephamminh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3377612/khue-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3377612/khue-pham" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3377612/khue-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3377612/khue-pham" height="30" width="40" /></a>
 <a href="https://medium.com/@khuepm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khuepm" height="30" width="40" /></a>
 </p>
 
@@ -40,12 +46,20 @@ I’m excited to share ADOSE with you, and I’m looking forward to seeing how i
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/khuepm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/khuepm" /></a></p><br><br>
+<p>
+<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/khuepm">
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/khuepm" /></a></p>
+<!--<br><br><br>-->
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuepm&show_icons=true&locale=en&layout=compact" alt="khuepm" />
+</p>
+<!--<br><br><br><br><br><br><br>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuepm&show_icons=true&locale=en&layout=compact" alt="khuepm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuepm&show_icons=true&locale=en" alt="khuepm" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuepm&show_icons=true&locale=en" alt="khuepm" />
+</p>
+<!--<br><br><br><br><br><br><br><br>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuepm&" alt="khuepm" /></p>
 
