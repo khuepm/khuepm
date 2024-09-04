@@ -22,7 +22,7 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 
 <p align="left"> <a href="https://github.com/khuepm"><img src="https://github-profile-trophy.vercel.app/?username=khuepm" alt="khuepm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/khuephamminh" target="blank"><img src="https://img.shields.io/twitter/follow/khuephamminh?logo=twitter&style=for-the-badge" alt="khuephamminh" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/khuephamminh" target="blank"><img src="https://img.shields.io/twitter/follow/khuephamminh?logo=twitter&style=for-the-badge" alt="khuephamminh" /></a> </p> -->
 
 - 🔭 I’m currently working on [Genuis App](https://github.com/genuis-app)
 
@@ -51,9 +51,9 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/khuepm" /></a></p>
 <!--<br><br><br>-->
 
-<p>
+<!--<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuepm&show_icons=true&locale=en&layout=compact" alt="khuepm" />
-</p>
+</p>-->
 <!--<br><br><br><br><br><br><br>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuepm&" alt="khuepm" /></p>
