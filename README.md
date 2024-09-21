@@ -32,6 +32,7 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement Both Web and Native for React Native](https://medium.com/@khuepm/implement-both-web-and-native-for-react-native-bde5f30b7f11?source=rss-871501d13d86------2)
 - [Environment File &lpar;.env&rpar; Checker and Syncer for ReactJS / NodeJS Project](https://medium.com/@khuepm/environment-file-checker-and-syncer-b5ed6feaf8b1?source=rss-871501d13d86------2)
 <!-- BLOG-POST-LIST:END -->
 
