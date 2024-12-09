@@ -24,9 +24,8 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 
 <!--<p align="left"> <a href="https://twitter.com/khuephamminh" target="blank"><img src="https://img.shields.io/twitter/follow/khuephamminh?logo=twitter&style=for-the-badge" alt="khuephamminh" /></a> </p> -->
 
-- 🔭 I’m currently working on [Genuis App](https://github.com/genuis-app)
-
-- 👯 I’m looking to collaborate on [ADOSE App](https://adose.app)
+<!--- 🔭 I’m currently building my pet project [Genuis App](https://github.com/genuis-app) -->
+<!--- 👯 and [ADOSE App](https://adose.app)-->
 
 - 💬 Ask me about **ReactJS, React Native, Nodejs, Typescript**
 
