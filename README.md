@@ -58,4 +58,5 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 <!--<br><br><br><br><br><br><br>-->
 
 <p></p>
-![](https://nirzak-streak-stats.vercel.app/?user=khuepm&theme=dark&hide_border=false)<br/>
+
+[![Profile views ](https://nirzak-streak-stats.vercel.app/?user=khuepm&theme=dark&hide_border=false)](https://genuis.app)
