@@ -18,8 +18,6 @@ I’m excited to share ADOSE with you, and I’m looking forward to seeing how i
 
 Genuis App is an AI-powered website builder that helps you create a stunning website in just a few simple steps. With our intuitive platform, you can name your website, choose from a variety of templates, and publish your site with just one click. Our AI technology assists you in brainstorming ideas and performing market research to ensure your website is tailored to your business needs. Plus, our platform generates content, including website copy and visual identity, to help bring your website to life.</p>
 
-[![Profile views ](https://visitcount.itsvg.in/api?id=khuepm&label=Profile%20Views&color=3&icon=4&pretty=false)](https://visitcount.itsvg.in)
-
 <p align="left"> <a href="https://github.com/khuepm"><img src="https://github-profile-trophy.vercel.app/?username=khuepm" alt="khuepm" /></a> </p>
 
 <!--<p align="left"> <a href="https://twitter.com/khuephamminh" target="blank"><img src="https://img.shields.io/twitter/follow/khuephamminh?logo=twitter&style=for-the-badge" alt="khuephamminh" /></a> </p> -->
@@ -57,5 +55,5 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 </p>-->
 <!--<br><br><br><br><br><br><br>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuepm&" alt="khuepm" /></p>
-
+<p></p>
+![](https://nirzak-streak-stats.vercel.app/?user=khuepm&theme=dark&hide_border=false)<br/>
