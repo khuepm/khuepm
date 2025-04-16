@@ -22,15 +22,17 @@ Genuis App is an AI-powered website builder that helps you create a stunning web
 
 <!--<p align="left"> <a href="https://twitter.com/khuephamminh" target="blank"><img src="https://img.shields.io/twitter/follow/khuephamminh?logo=twitter&style=for-the-badge" alt="khuephamminh" /></a> </p> -->
 
-- 🔭 I’m currently working on [Genuis App](https://github.com/genuis-app)
-
-- 👯 I’m looking to collaborate on [ADOSE App](https://adose.app)
+<!--- 🔭 I’m currently building my pet project [Genuis App](https://github.com/genuis-app) -->
+<!--- 👯 and [ADOSE App](https://adose.app)-->
 
 - 💬 Ask me about **ReactJS, React Native, Nodejs, Typescript**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Environment File &lpar;.env&rpar; Checker and Syncer for ReactJS / NodeJS Project](https://medium.com/@khuepm/environment-file-checker-and-syncer-b5ed6feaf8b1?source=rss-871501d13d86------2)
+- [React-Native + Web + Firebase &lpar;Part 02&rpar; — Implement React Native Firebase cross-app](https://khuepm.medium.com/react-native-web-firebase-part-02-implement-react-native-firebase-cross-app-5bfce58b13a7?source=rss-871501d13d86------2)
+- [React Native + Web + Firebase &lpar;Part 01&rpar; — Why we use React Native to develop both Native and Web…](https://khuepm.medium.com/implement-both-web-and-native-for-react-native-7bda60df4eaf?source=rss-871501d13d86------2)
+- [Dựng Web and Native từ React Native](https://khuepm.medium.com/implement-both-web-and-native-for-react-native-bde5f30b7f11?source=rss-871501d13d86------2)
+- [Environment File &lpar;.env&rpar; Checker and Syncer for ReactJS / NodeJS Project](https://khuepm.medium.com/environment-file-checker-and-syncer-b5ed6feaf8b1?source=rss-871501d13d86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
