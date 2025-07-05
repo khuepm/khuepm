@@ -6,7 +6,7 @@ With a background in full-stack development, I’ve had the privilege of working
 
 - 💬 Ask me about **ReactJS, React Native, Nodejs, Typescript**
 
-### Blogs posts published by me
+### Latest Blog posts published by me
 <!-- BLOG-POST-LIST:START -->
 - [Day 1 — First Contact: The Initial AI Test / Picking AI &lpar;ChatGPT, Gemini, Grok&rpar; for a Deep Dive?](https://khuepm.medium.com/day-1-first-contact-the-initial-ai-test-picking-ai-chatgpt-gemini-grok-for-a-deep-dive-de29a58ba2ef?source=rss-871501d13d86------2)
 - [Alert: Malicious Packages on PyPI, npm, and RubyGems — We Need to Act Now!](https://khuepm.medium.com/alert-malicious-packages-on-pypi-npm-and-rubygems-we-need-to-act-now-34812224ebd9?source=rss-871501d13d86------2)
@@ -23,7 +23,7 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 <a href="https://medium.com/@khuepm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khuepm" height="30" width="40" /></a>
 </p>
 
-<h3>🛠️ Ngôn ngữ & Công cụ (Languages & Tools)</h3>
+<h3>🛠️ Languages & Tools</h3>
 
 <details>
   <summary>🌐 Programming Languages</summary>
