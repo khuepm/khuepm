@@ -14,10 +14,10 @@ With a background in full-stack development, I’ve had the privilege of working
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 — First Contact: The Initial AI Test / Picking AI &lpar;ChatGPT, Gemini, Grok&rpar; for a Deep Dive?](https://khuepm.medium.com/day-1-first-contact-the-initial-ai-test-picking-ai-chatgpt-gemini-grok-for-a-deep-dive-de29a58ba2ef?source=rss-871501d13d86------2)
 - [Alert: Malicious Packages on PyPI, npm, and RubyGems — We Need to Act Now!](https://khuepm.medium.com/alert-malicious-packages-on-pypi-npm-and-rubygems-we-need-to-act-now-34812224ebd9?source=rss-871501d13d86------2)
 - [Cảnh báo: Các gói độc hại trên PyPI, npm và RubyGems — Chúng ta cần hành động ngay!](https://khuepm.medium.com/c%E1%BA%A3nh-b%C3%A1o-c%C3%A1c-g%C3%B3i-%C4%91%E1%BB%99c-h%E1%BA%A1i-tr%C3%AAn-pypi-npm-v%C3%A0-rubygems-ch%C3%BAng-ta-c%E1%BA%A7n-h%C3%A0nh-%C4%91%E1%BB%99ng-ngay-ab2362f831fe?source=rss-871501d13d86------2)
 - [React-Native + Web + Firebase &lpar;Part 02&rpar; — Implement React Native Firebase cross-app](https://khuepm.medium.com/react-native-web-firebase-part-02-implement-react-native-firebase-cross-app-5bfce58b13a7?source=rss-871501d13d86------2)
-- [React Native + Web + Firebase &lpar;Part 01&rpar; — Why we use React Native to develop both Native and Web…](https://khuepm.medium.com/implement-both-web-and-native-for-react-native-7bda60df4eaf?source=rss-871501d13d86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
