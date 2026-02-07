@@ -2,15 +2,15 @@
   <a href="./README.md">English</a> | <a href="./README.vi.md">Tiếng Việt</a> | <a href="./README.zh.md">中文</a>
 </div>
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">你好 👋</h1>
 <p align="left">
-I'm <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>, a full-stack developer with a passion for technology and innovation, I've always been fascinated by how we can leverage the power of code to create impactful solutions that improve people's lives. My journey into the tech world has been driven by a desire to solve real-world problems, and I've always been inspired by the potential of startups to bring fresh, transformative ideas to life.
+我是 <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>，一名全栈开发人员，对技术和创新充满热情。我一直着迷于我们如何利用代码的力量来创造有影响力的解决方案，从而改善人们的生活。我进入科技领域的旅程是由解决现实世界问题的愿望推动的，我一直受到初创企业将新鲜、变革性想法变为现实的潜力的启发。
 
-With a background in full-stack development, I’ve had the privilege of working on a wide range of projects, from building robust back-end systems to crafting intuitive user interfaces. This experience has given me a unique perspective on how to design and build products that not only function seamlessly but also deliver real value to users.
+凭借全栈开发的背景，我有幸参与了各种各样的项目，从构建强大的后端系统到打造直观的用户界面。这不仅让我拥有独特的视角，还让我懂得如何设计和构建不仅运行流畅，还能为用户提供真正价值的产品。
 
-- 💬 Ask me about **ReactJS, React Native, Nodejs, Typescript**
+- 💬 询问我关于 **ReactJS, React Native, Nodejs, Typescript** 的问题
 
-### Latest Blog posts published by me
+### 我最新发布的博客文章
 <!-- BLOG-POST-LIST:START -->
 - [Day 3/100: Assembling the Toolkit on a Shoestring Budget ️](https://khuepm.medium.com/day-3-100-assembling-the-toolkit-on-a-shoestring-budget-%EF%B8%8F-4dcb15bce921?source=rss-871501d13d86------2)
 - [Day 2/100 — Which AI to choose for analyzing investment projects?](https://khuepm.medium.com/day-2-100-which-ai-to-choose-for-analyzing-investment-projects-28baff9e64ef?source=rss-871501d13d86------2)
@@ -18,28 +18,27 @@ With a background in full-stack development, I’ve had the privilege of working
 - [Alert: Malicious Packages on PyPI, npm, and RubyGems — We Need to Act Now!](https://khuepm.medium.com/alert-malicious-packages-on-pypi-npm-and-rubygems-we-need-to-act-now-34812224ebd9?source=rss-871501d13d86------2)
 <!-- BLOG-POST-LIST:END -->
 
-View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](https://dev.to/khuepm)
+浏览更多: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](https://dev.to/khuepm)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">与我联系:</h3>
 <p align="left">
 <a href="https://twitter.com/khuephamminh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khuephamminh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3377612/khue-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3377612/khue-pham" height="30" width="40" /></a>
 <a href="https://medium.com/@khuepm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khuepm" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🚀 Open Source Projects</h3>
+<h3 align="left">🚀 开源项目</h3>
 <p align="left">
-- 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: A ready-to-use project structure to help developers/non-IT professionals build any project with features like login, database, and rapid API building. Easy to extend and develop ideas. Users only need to focus on ideas and building frontend interfaces for web/app/desktop apps.<br>
-- 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: A media management app, aiming to categorize photos and videos for easy cleanup.<br>
-- 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: A tool to help AWS's Kiro IDE work better with Firebase.<br>
-- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: A launchpad for startup projects, including many app building resources and guides, aimed at helping non-IT professionals build apps themselves and introduce them to the community.
+- 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: 一个开箱即用的代码项目结构，帮助开发人员/非IT人员快速构建具有登录、数据库、API等功能的应用程序。易于扩展，易于开发创意。让用户只需关注创意，即可构建适用于Web/App/桌面应用程序的前端界面。<br>
+- 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: 照片管理应用程序，旨在分类照片和视频以便于删除。<br>
+- 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: 帮助 AWS 的 Kiro IDE 更好地与 Firebase 配合使用的工具。<br>
+- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: 初创项目启动板，包含许多应用程序构建资源、构建指南，旨在帮助非IT专业人士自行构建应用程序并向社区介绍。
 </p>
 
-
-<h3>🛠️ Languages & Tools</h3>
+<h3>🛠️ 语言和工具</h3>
 
 <details>
-  <summary>🌐 Programming Languages</summary>
+  <summary>🌐 编程语言</summary>
   <p> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -50,9 +49,9 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>🖼️ Frontend Development</summary>
+  <summary>🖼️ 前端开发</summary>
   <p> 
-    <strong>Frameworks & Libraries:</strong><br>
+    <strong>框架库 (Frameworks & Libraries):</strong><br>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -63,7 +62,7 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   </p>
   <p> 
-    <strong>Markup, Styling & CSS Frameworks:</strong><br>
+    <strong>标记、样式和 CSS 框架:</strong><br>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
@@ -75,7 +74,7 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>⚙️ Backend Development</summary>
+  <summary>⚙️ 后端开发</summary>
   <p> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -85,7 +84,7 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>🗃️ Databases & Data Stores</summary>
+  <summary>🗃️ 数据库和数据存储</summary>
   <p> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -98,28 +97,28 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>☁️ Cloud, DevOps & Infrastructure</summary>
+  <summary>☁️ 云、DevOps和基础设施</summary>
   <p> 
-    <strong>Cloud Platforms:</strong><br>
+    <strong>云平台:</strong><br>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   </p>
   <p> 
-    <strong>Containerization & CI/CD:</strong><br>
+    <strong>容器化和 CI/CD:</strong><br>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
     <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
   </p>
    <p> 
-    <strong>Other Infrastructure:</strong><br>
+    <strong>其他基础设施:</strong><br>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
   </p>
 </details>
 
 <details>
-  <summary>🧪 Testing</summary>
+  <summary>🧪 测试</summary>
   <p> 
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
@@ -130,29 +129,29 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>🔧 Tools & Utilities</summary>
+  <summary>🔧 工具和实用程序</summary>
   <p> 
-    <strong>Version Control:</strong><br>
+    <strong>版本控制:</strong><br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
    <p> 
-    <strong>Build Tools & Transpilers:</strong><br>
+    <strong>构建工具和编译器:</strong><br>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
   </p>
    <p> 
-    <strong>API Tools:</strong><br>
+    <strong>API 工具:</strong><br>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
   <p> 
-    <strong>Operating Systems:</strong><br>
+    <strong>操作系统:</strong><br>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   </p>
 </details>
 
 <details>
-  <summary>🎨 Design & Graphics</summary>
+  <summary>🎨 设计和图形</summary>
   <p> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
@@ -162,20 +161,20 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 </details>
 
 <details>
-  <summary>🧩 Others</summary>
+  <summary>🧩 其他</summary>
   <p> 
-    <strong>Search & Analytics:</strong><br>
+    <strong>搜索和分析:</strong><br>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
     <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
   </p>
   <p> 
-    <strong>Game Engine:</strong><br>
+    <strong>游戏引擎:</strong><br>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   </p>
 </details>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">支持:</h3>
 <p>
 <a href="https://buymeacoffee.com/khuepm">
 <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/khuepm" /></a></p>
