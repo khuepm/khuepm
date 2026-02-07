@@ -32,7 +32,8 @@ Xem thêm: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 - 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: Một cấu trúc dự án sẵn sàng sử dụng, giúp developer/non-IT xây dựng nhanh các ứng dụng với đầy đủ tính năng: Đăng nhập, Database, API. Dễ dàng mở rộng, giúp bạn tập trung vào ý tưởng và xây dựng giao diện Frontend (Web/App/Desktop).<br>
 - 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: Ứng dụng quản lý media thông minh, giúp phân loại ảnh & video để dễ dàng dọn dẹp và quản lý bộ nhớ.<br>
 - 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: Công cụ giúp IDE Kiro của AWS làm việc tương thích và hiệu quả với Firebase.<br>
-- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: Launchpad cho startup & người không chuyên IT. Cung cấp tài nguyên, hướng dẫn xây dựng app và nền tảng giới thiệu sản phẩm tới cộng đồng.
+- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: Launchpad cho startup & người không chuyên IT. Cung cấp tài nguyên, hướng dẫn xây dựng app và nền tảng giới thiệu sản phẩm tới cộng đồng.<br>
+- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Phần mềm Automation trên Windows / Macos cho phép thực hiện Auto, lặp lại các hành động, mục đích để test app, ứng dụng hoặc làm các thao tác lặp đi lặp lại.
 </p>
 
 

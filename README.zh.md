@@ -32,7 +32,8 @@
 - 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: 一个开箱即用的代码项目结构，帮助开发人员/非IT人员快速构建具有登录、数据库、API等功能的应用程序。易于扩展，易于开发创意。让用户只需关注创意，即可构建适用于Web/App/桌面应用程序的前端界面。<br>
 - 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: 照片管理应用程序，旨在分类照片和视频以便于删除。<br>
 - 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: 帮助 AWS 的 Kiro IDE 更好地与 Firebase 配合使用的工具。<br>
-- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: 初创项目启动板，包含许多应用程序构建资源、构建指南，旨在帮助非IT专业人士自行构建应用程序并向社区介绍。
+- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: 初创项目启动板，包含许多应用程序构建资源、构建指南，旨在帮助非IT专业人士自行构建应用程序并向社区介绍。<br>
+- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: 适用于 Windows 和 macOS 的自动化软件，允许执行自动、重复的操作，旨在测试应用程序或执行重复性任务。
 </p>
 
 <h3>🛠️ 语言和工具</h3>

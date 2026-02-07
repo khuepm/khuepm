@@ -32,7 +32,8 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 - 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: A ready-to-use project structure to help developers/non-IT professionals build any project with features like login, database, and rapid API building. Easy to extend and develop ideas. Users only need to focus on ideas and building frontend interfaces for web/app/desktop apps.<br>
 - 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: A media management app, aiming to categorize photos and videos for easy cleanup.<br>
 - 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: A tool to help AWS's Kiro IDE work better with Firebase.<br>
-- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: A launchpad for startup projects, including many app building resources and guides, aimed at helping non-IT professionals build apps themselves and introduce them to the community.
+- 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: A launchpad for startup projects, including many app building resources and guides, aimed at helping non-IT professionals build apps themselves and introduce them to the community.<br>
+- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Automation software for Windows and macOS that enables automated, repetitive actions, designed for app testing and task automation.
 </p>
 
 
