@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Flower Customizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #333;
+            color: #fff;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+        }
+        input[type="range"] {
+            width: 300px;
+            margin: 20px 0;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Flower Shape Customizer</h1>
+        
+        <!-- SVG Container -->
+        <svg id="flower-svg" width="300" height="300" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <radialGradient id="raysGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+              <stop offset="0%" stop-color="#ffeba1" />
+              <stop offset="40%" stop-color="#ffc107" />
+              <stop offset="70%" stop-color="#ff9800" />
+              <stop offset="100%" stop-color="#ff5722" />
+            </radialGradient>
+            
+            <filter id="blur">
+              <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
+            </filter>
+        
+            <!-- Dynamically update 'd' attribute via JS -->
+            <path id="petal" d="M100,100 Q130,40 100,20 Q70,40 100,100 Z" />
+            
+            <g id="white-petals-group">
+                 <use href="#petal" fill="white" transform="rotate(0, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(45, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(90, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(135, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(180, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(225, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(270, 100, 100)" />
+                 <use href="#petal" fill="white" transform="rotate(315, 100, 100)" />
+            </g>
+          </defs>
+        
+          <g id="flower-bottom">
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(22.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(67.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(112.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(157.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(202.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(247.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(292.5, 100, 100)" />
+            <use href="#petal" fill="url(#raysGradient)" transform="rotate(337.5, 100, 100)" />
+          </g>
+        
+          <g transform="scale(0.85) translate(15,15)" opacity="0.8" filter="url(#blur)">
+              <use href="#white-petals-group" />
+              <use href="#white-petals-group" transform="rotate(22.5, 100, 100)" />
+          </g>
+        
+          <g transform="scale(0.75) translate(33,33)" opacity="0.9">
+             <use href="#white-petals-group" />
+             <use href="#white-petals-group" transform="rotate(22.5, 100, 100)" />
+          </g>
+        
+          <circle cx="100" cy="100" r="25" fill="white" fill-opacity="0.4" stroke="white" stroke-width="1.5" />
+          <circle cx="100" cy="100" r="12" fill="#fff9c4" />
+        </svg>
+
+        <div>
+            <label for="shapeSlider">Petal Shape: <span id="shapeValue">30</span></label>
+            <input type="range" id="shapeSlider" min="10" max="60" value="30">
+        </div>
+    </div>
+
+    <script>
+        const slider = document.getElementById('shapeSlider');
+        const shapeValue = document.getElementById('shapeValue');
+        const petal = document.getElementById('petal');
+
+        // Initial update
+        updatePetalShape(slider.value);
+
+        slider.addEventListener('input', (e) => {
+            const val = e.target.value;
+            shapeValue.textContent = val;
+            updatePetalShape(val);
+        });
+
+        function updatePetalShape(widthControl) {
+            // Original: M100,100 Q130,40 100,20 Q70,40 100,100 Z
+            // widthControl adds to / subtracts from 100 for the X coordinate of the control point
+            // A higher widthControl makes the petal wider/rounder
+            
+            const center = 100;
+            const controlY = 40;
+            const tipX = 100;
+            const tipY = 20;
+
+            const rightControlX = center + parseInt(widthControl);
+            const leftControlX = center - parseInt(widthControl);
+
+            const newD = `M${center},${center} Q${rightControlX},${controlY} ${tipX},${tipY} Q${leftControlX},${controlY} ${center},${center} Z`;
+            
+            petal.setAttribute('d', newD);
+        }
+    </script>
+</body>
+</html>

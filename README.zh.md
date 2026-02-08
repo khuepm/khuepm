@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | <a href="./README.vi.md">Tiếng Việt</a> | <a href="./README.zh.md">中文</a>
 </div>
 
-<h1 align="center">你好 👋</h1>
+<h1 align="center">你好 <img src="./assets/flower.svg" width="30" height="30" alt="flower"/> 👋</h1>
 <p align="left">
 我是 <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>，一名全栈开发人员，对技术和创新充满热情。我一直着迷于我们如何利用代码的力量来创造有影响力的解决方案，从而改善人们的生活。我进入科技领域的旅程是由解决现实世界问题的愿望推动的，我一直受到初创企业将新鲜、变革性想法变为现实的潜力的启发。
 

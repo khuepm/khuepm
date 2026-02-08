@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | <a href="./README.vi.md">Tiếng Việt</a> | <a href="./README.zh.md">中文</a>
 </div>
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi <img src="./assets/flower.svg" width="30" height="30" alt="flower"/> 👋</h1>
 <p align="left">
 I'm <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>, a full-stack developer with a passion for technology and innovation, I've always been fascinated by how we can leverage the power of code to create impactful solutions that improve people's lives. My journey into the tech world has been driven by a desire to solve real-world problems, and I've always been inspired by the potential of startups to bring fresh, transformative ideas to life.
 

@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | <a href="./README.vi.md">Tiếng Việt</a> | <a href="./README.zh.md">中文</a>
 </div>
 
-<h1 align="center">Xin chào 👋</h1>
+<h1 align="center">Xin chào <img src="./assets/flower.svg" width="30" height="30" alt="flower"/> 👋</h1>
 <p align="left">
 Tôi là <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>, một lập trình viên full-stack với niềm đam mê công nghệ và đổi mới. Tôi luôn bị cuốn hút bởi cách chúng ta có thể tận dụng sức mạnh của mã nguồn để tạo ra các giải pháp có tác động tích cực đến cuộc sống con người. Hành trình của tôi vào thế giới công nghệ được thúc đẩy bởi mong muốn giải quyết các vấn đề thực tế, và tôi luôn được truyền cảm hứng bởi tiềm năng của các startup trong việc mang lại những ý tưởng mới mẻ, mang tính cách mạng.
 
