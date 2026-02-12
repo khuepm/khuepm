@@ -33,7 +33,15 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 - 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: A media management app, aiming to categorize photos and videos for easy cleanup.<br>
 - 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: A tool to help AWS's Kiro IDE work better with Firebase.<br>
 - 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: A launchpad for startup projects, including many app building resources and guides, aimed at helping non-IT professionals build apps themselves and introduce them to the community.<br>
-- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Automation software for Windows and macOS that enables automated, repetitive actions, designed for app testing and task automation.
+- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Automation software for Windows and macOS that enables automated, repetitive actions, designed for app testing and task automation.<br>
+- 📄 <strong><a href="https://github.com/khuepm/gemini-business-to-pdf">Gemini Business to PDF</a></strong>: A powerful tool designed to export and archive your Google Gemini Business chat conversations into well-structured Markdown and PDF formats. Perfect for documentation, knowledge preservation, and creating searchable archives of your AI interactions with support for conversation threading and metadata preservation.
+</p>
+
+<h3 align="left">💼 Commercial Projects</h3>
+<p align="left">
+- 🧘‍♀️ <strong><a href="https://github.com/ADOSE-APP">Adose.app</a></strong>: A comprehensive mental health care application designed to support users' emotional well-being through personalized meditation sessions, mood tracking, and evidence-based therapeutic exercises. Features include guided meditation programs, stress management tools, and progress analytics to help users maintain mental wellness and build healthy coping mechanisms.<br>
+- 🎨 <strong><a href="https://github.com/GenUIs-App">Genius.app</a></strong>: An innovative AI-powered Page Builder that revolutionizes web development by allowing users to create stunning, responsive web pages through natural language commands. Leveraging advanced AI algorithms, the platform intelligently translates user descriptions into fully functional code, supporting modern frameworks and providing real-time preview capabilities for rapid prototyping and deployment.<br>
+- 📱 <strong><a href="https://github.com/WallShortcut">WallShortcut</a></strong>: A sophisticated iOS application that automates wallpaper management by intelligently updating device backgrounds based on user preferences, time of day, weather conditions, or personal photo collections. Features include curated wallpaper galleries, automatic scheduling, and seamless integration with iOS photo libraries to keep your device's appearance fresh and personalized.
 </p>
 
 
