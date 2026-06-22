@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | <a href="./README.vi.md">Tiếng Việt</a> | <a href="./README.zh.md">中文</a>
 </div>
 
-<h1 align="center">Hi <img src="./assets/flower.svg" width="30" height="30" alt="flower"/> 👋</h1>
+<h1 align="center">Hi👋</h1>
 <p align="left">
 I'm <img src="https://genuis.app/blue-gif.gif" alt="laravel" width="12" height="12"/> <strong>Khue Pham</strong>, a full-stack developer with a passion for technology and innovation, I've always been fascinated by how we can leverage the power of code to create impactful solutions that improve people's lives. My journey into the tech world has been driven by a desire to solve real-world problems, and I've always been inspired by the potential of startups to bring fresh, transformative ideas to life.
 
@@ -29,11 +29,43 @@ View more: [khuepm.medium.com](https://khuepm.medium.com/) | [dev.to/khuepm](htt
 
 <h3 align="left">🚀 Open Source Projects</h3>
 <p align="left">
+  
+**Boong: The Autonomous AI Agent IDE**
+
+[![AI Agent Powered](https://img.shields.io/badge/Powered%20by-AI%20Agents-blue.svg)](https://github.com/your-repo)
+[![LangGraph Orchestration](https://img.shields.io/badge/Orchestration-LangGraph-orange.svg)](https://github.com/your-repo)
+
+[**Boong**](https://github.com/lumibase-ai/Boong) is a next-generation Cloud IDE powered by a collaborative ecosystem of **AI Agents**. It completely automates the software development lifecycle—from project scaffolding and coding to automated testing and one-click deployment—all guided by natural language.
+
+At its core, Boong relies on a sophisticated **Multi-Agent workflow** to act as your tireless engineering team.
+
+## 🧠 The AI Agent Ecosystem
+
+Boong is not just a code generator; it is a cognitive platform composed of specialized **AI Agents** working in harmony:
+
+* **AuraSphere (The Orchestrator Agent):** The central nervous system built on LangGraph. This lead **AI Agent** interprets your goals, formulates a step-by-step execution plan, and writes the actual code within a secure, sandboxed environment.
+* **Lumibase Integration (Context via MCP):** A Headless CMS equipped with an AI harness. It acts as a Model Context Protocol (MCP) server, feeding the **Coder Agent** with real-time database schemas and API contexts, ensuring absolute accuracy without hallucination.
+* **GeniusQA (The Autonomous QA Agent):** A dedicated testing **AI Agent**. Once the app is built, GeniusQA autonomously interacts with the UI, catches runtime errors, and utilizes Vision capabilities to send visual feedback back to AuraSphere, creating a continuous **Self-Healing AI Loop**.
+
+## ✨ Key Features
+
+- **Prompt-to-Deploy:** Describe your idea and watch as the **AI Agent** builds, runs, and deploys it with a single click.
+- **Real-time Agentic Reasoning:** Watch the **AI Agent's** thought process, terminal executions, and code generations live via WebSocket streaming.
+- **Self-Correcting Workflows:** Powered by LangGraph's cyclic state management, our agents don't just fail; they read the error logs, understand the bugs, and automatically patch the code until the build is green.
+
+## ✨ Main Projects
+
 - 🚀 <strong><a href="https://github.com/khuepm/LumiBase">LumiBase</a></strong>: A ready-to-use project structure to help developers/non-IT professionals build any project with features like login, database, and rapid API building. Easy to extend and develop ideas. Users only need to focus on ideas and building frontend interfaces for web/app/desktop apps.<br>
+- 📝 [**WordAI**](https://github.com/khuepm/WordAI/): AI-Powered Content Editor
+> **Write freely, publish anything.**
+
+WordAI is a next-generation content editor built from the ground up with an AI-Native architecture (Tauri + React + Rust). Forget about manual formatting or layout adjustments—just focus on your flow of ideas. **AuraSphere AI** automatically handles the styling and publishes your work into any format you desire (PDF, Web, Docs).
+- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Automation software for Windows and macOS that enables automated, repetitive actions, designed for app testing and task automation.<br>
+- **AuraSphere (The Orchestrator Agent)**: The central nervous system built on LangGraph. This lead AI Agent interprets your goals, formulates a step-by-step execution plan, and writes the actual code within a secure, sandboxed environment.
+
 - 📸 <strong><a href="https://github.com/khuepm/Cura">Cura</a></strong>: A media management app, aiming to categorize photos and videos for easy cleanup.<br>
 - 🔥 <strong><a href="https://github.com/khuepm/firebase-kiro-power">firebase-kiro-power</a></strong>: A tool to help AWS's Kiro IDE work better with Firebase.<br>
 - 🛠️ <strong><a href="https://github.com/Build24-Tech/build24-frontend">Build24.tech</a></strong>: A launchpad for startup projects, including many app building resources and guides, aimed at helping non-IT professionals build apps themselves and introduce them to the community.<br>
-- 🤖 <strong><a href="https://github.com/khuepm/GeniusQA">GeniusQA</a></strong>: Automation software for Windows and macOS that enables automated, repetitive actions, designed for app testing and task automation.<br>
 - 📄 <strong><a href="https://github.com/khuepm/gemini-business-to-pdf">Gemini Business to PDF</a></strong>: A powerful tool designed to export and archive your Google Gemini Business chat conversations into well-structured Markdown and PDF formats. Perfect for documentation, knowledge preservation, and creating searchable archives of your AI interactions with support for conversation threading and metadata preservation.
 </p>
 
